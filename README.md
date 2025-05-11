@@ -1,11 +1,12 @@
 # SMART TEST - DIAN E.
 
 ## Clone The Repository
-To get started, clone the repository and navigate into the project folder:
+To get started, clone the repository, navigate into the project folder, and open it in VSCode. Run the following commands in your terminal"
 
 ```
 git clone https://github.com/dianekapr/smart-test-diane.git
 cd smart-test-diane
+code .
 ```
 
 ## Install Dependencies
